@@ -1,0 +1,7 @@
+---
+applications:
+- name: hellobluemixbarath
+  memory: 512M
+  host: hellobluemixbarath
+  path: ./target/bluemix-hello-world-0.0.1-SNAPSHOT.war
+  domain: mybluemix.net
